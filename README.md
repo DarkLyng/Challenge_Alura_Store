@@ -8,7 +8,7 @@ Para utilizar este proyecto, haga lo siguiente:
 
 **Copiar el repositorio:**
   ```bash
-  git clone https://github.com/DarkLyng/Challenge_Alura_Store.git
+  git clone https://github.com/DarkLyng/Challenge_Alura_Store
   cd Challenge_Alura_Store
   ```
 ## Dependencias
