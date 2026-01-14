@@ -9,7 +9,7 @@ Para utilizar este proyecto, haga lo siguiente:
 
 **Copiar el repositorio:**
   ```bash
-  git clone <URL_DEL_REPOSITORIO>
+  git clone https://github.com/DarkLyng/Challenge_Alura_Store.git
   cd Challenge_Alura_Store
   ```
 ## Dependencias
