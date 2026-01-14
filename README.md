@@ -4,7 +4,6 @@ Se realizará un análisis de ventas y observará el rendimiento de cada una de 
 La evaluación se hará basándose en estos cinco aspectos: facturación total de cada tienda (cuál tienda vende más); cuáles son las categorías más populares de cada tienda (cuáles productos se venden más en cada tienda); cuál es el promedio de evaluación de cada uno de los clientes; cuáles son los productos más y menos vendidos en cada tienda; y cuál es el costo promedio del envío. El análisis se realizó utilizando Python, la librería `pandas` para la manipulación y análisis de datos, y `matplotlib` para observar los resultados.
 
 ## Instalación
-
 Para utilizar este proyecto, haga lo siguiente:
 
 **Copiar el repositorio:**
@@ -13,7 +12,6 @@ Para utilizar este proyecto, haga lo siguiente:
   cd Challenge_Alura_Store
   ```
 ## Dependencias
-
 Este proyecto ocupa las siguientes librerías de Python. Para instalarlas haga lo siguiente:
 
 ```bash
